@@ -200,10 +200,9 @@ body {
   margin: 16px;
 }
 
-
 .reviews-section {
   padding: 24px 72px;
-  background-color: #F5F5F5FF;
+  background-color: #f5f5f5ff;
 }
 
 .rewiews-section__items-column {
@@ -214,30 +213,31 @@ body {
   margin: 32px 0;
 }
 
-.rewiews-section__items-circle{
-  width: 130px; 
-height: 60px;
-background: #445161FF;
-border-radius: 50%;
-display: flex;
+.rewiews-section__items-circle {
+  width: 130px;
+  height: 60px;
+  background: #445161ff;
+  border-radius: 50%;
+  display: flex;
 }
 
-.card__items-triangle{
+.card__items-triangle {
   display: flex;
-  width: 0; 
-height: 0;
-border-top: 50px solid transparent;
-border-right: 100px solid #EBEBEBFF;
-border-bottom: 50px solid transparent;
+  width: 0;
+  height: 0;
+  margin-right: -20px;
+  margin-top: 10px;
+  border-top: 15px solid transparent;
+  border-right: 20px solid #ebebebff;
+  border-bottom: 15px solid transparent;
 }
 
 .reviews-section__item {
-  background-color: #EBEBEBFF;
+  background-color: #ebebebff;
   padding: 5px;
   border-radius: 6px;
 }
 
-
-.autor{
-  color: #BEBEBEFF;
+.autor {
+  color: #bebebeff;
 }
