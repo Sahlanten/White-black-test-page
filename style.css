@@ -199,3 +199,45 @@ body {
 .supported-brands__item {
   margin: 16px;
 }
+
+
+.reviews-section {
+  padding: 24px 72px;
+  background-color: #F5F5F5FF;
+}
+
+.rewiews-section__items-column {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  margin: 32px 0;
+}
+
+.rewiews-section__items-circle{
+  width: 130px; 
+height: 60px;
+background: #445161FF;
+border-radius: 50%;
+display: flex;
+}
+
+.card__items-triangle{
+  display: flex;
+  width: 0; 
+height: 0;
+border-top: 50px solid transparent;
+border-right: 100px solid #EBEBEBFF;
+border-bottom: 50px solid transparent;
+}
+
+.reviews-section__item {
+  background-color: #EBEBEBFF;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+
+.autor{
+  color: #BEBEBEFF;
+}
